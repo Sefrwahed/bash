@@ -1,0 +1,10 @@
+name: Bash Tuts
+baseurl: /bash
+encoding: utf-8
+exclude: ['Gemfile', 'Gemfile.lock']
+kramdown:
+  input: GFM
+
+nav: [
+  ['Overview',                    'index'          ],
+]
