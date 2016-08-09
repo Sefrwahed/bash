@@ -1,6 +1,6 @@
 {% assign version = page.url | remove_first: '/' | split: '/' | first %}
     {% assign tree = site.nav %}
-    <p class="nav-title"><a href="{{ site.baseurl }}/">Bash Tutorial</a></p>
+    <p class="nav-title"><a href="{{ site.baseurl }}/">Bash Console</a></p>
 
 <div class="nav-tree">
   <ul>

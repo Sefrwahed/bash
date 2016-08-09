@@ -2,47 +2,50 @@
 layout: main
 title: Overview
 ---
+# Overview
 
-# What will be discussed ?
+Tutorials covering some basics of Linux Bash console.
 
-- Working on CLI
-- Analyzing Text Files
-- Basic File Management
-- Command line Pipes
-- Process Management
-- Regular expressions basics
+## Prerequisites
 
-## Working on CLI
+- Laptop
+- Linux installed, or live CD
+
+## What will be discussed ?
+
+### Working on CLI
 
 - Access terminals
 - Identify connected terminal
 - Bash history
 
-## Analyzing Text Files
+### Analyzing Text Files
 
-- `Heads` and `Tails`
+- `head` and `tail`
 - `more` or `less`
 - `cat` or `tac`
+- `cut` and `sort`
 
-## Basic File Management
+### Basic File Management
 
+- Traversing directories
 - Listing files
 - Copy, move, and delete
 - Changing permissions
 
-## Command line Pipes
+### Command line Pipes
 
 - Input and Output
 - Named and unnamed pipes
 - Append and overwrite
 
-## Process Management
+### Process Management
 
 - Killing process
 - Backgrounding processes
 - Disown process
 
-## Regular expressions basics
+### Regular expressions basics
 
 - learning POSIX Compliant Regular expressions (PCRE)
 - Searching some text
