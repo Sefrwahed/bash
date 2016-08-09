@@ -26,18 +26,18 @@ Tutorials covering some basics of Linux Bash console.
 - `cat` or `tac`
 - `cut` and `sort`
 
+### Command line Pipes
+
+- Input and Output
+- Named and unnamed pipes
+- Append and overwrite
+
 ### Basic File Management
 
 - Traversing directories
 - Listing files
 - Copy, move, and delete
 - Changing permissions
-
-### Command line Pipes
-
-- Input and Output
-- Named and unnamed pipes
-- Append and overwrite
 
 ### Process Management
 
