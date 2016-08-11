@@ -6,5 +6,8 @@ kramdown:
   input: GFM
 
 nav: [
-  ['Overview',                    'index'          ],
+  ['Overview',                    'index'             ],
+  ['Working on CLI',              'working-on-cli'    ],
+  ['Analyzing text files',        'analyze-text-files'],
+  ['Command line pipes',          'command-line-pipes'],
 ]
