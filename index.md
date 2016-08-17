@@ -41,6 +41,7 @@ Tutorials covering some basics of Linux Bash console.
 
 ### Process Management
 
+- Monitoring process
 - Killing process
 - Backgrounding processes
 - Disown process
