@@ -21,4 +21,11 @@ Grep works fine with simple expression but when it comes to complex expressions 
 
 ### `()` and `|`
 
-> For challenges visit [regexone](http://regexone.com/)
+---
+
+#### For challenges and practice visit:
+
+* [regexone](http://regexone.com/)
+* [regular-expressions](http://www.regular-expressions.info/)
+* [regexr](http://regexr.com)
+* [regex101](https://regex101.com/)

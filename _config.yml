@@ -10,4 +10,7 @@ nav: [
   ['Working on CLI',              'working-on-cli'    ],
   ['Analyzing text files',        'analyze-text-files'],
   ['Command line pipes',          'command-line-pipes'],
+  ['Basic File Management',       'file-management'   ],
+  ['Process Management',          'process-management'],
+  ['Regular Expressions',         'regex'             ],
 ]
