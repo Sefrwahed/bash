@@ -13,6 +13,12 @@ title: Basic File Management
 * example: `ls folder1` this will list the contents of `folder1`
 * There is an option `-R` to a recursive listing
 * example: `ls -R folder1` this will list the contents of `folder1` and all its children folders
+* The `-l` will provide you a detailed list, you can also add `-h` option to get a human readable format
+* The `-t` will sort by the modification date, you can also add `-r` to reverse the listing
+* If coloring is turned off on your machine you can turn it on with `--color=auto` option
+* Of course there is a bunch of options for `ls`. Use `ls --help` to explore them
+
+> NOTE: If you have a command like this `ls -l -h` you can shorten it to `ls -lh` and get the same result
 
 ### `cp`
 
@@ -35,16 +41,6 @@ title: Basic File Management
 * example: `rm -i f*` will delete all files staring with **f** and the `-i` will ask you before deleting each
 * Use `rmdir` command to delete **empty** directories only
 * To delete non-empty directories use `rm -rf dirname`, the `-rf` option means **recursive** deletion with **forcing**, **USE WITH CAUTION**
-
-### `ls`
-
-* We already know that `ls` is used for listing directories
-* The `-l` will provide you a detailed list, you can also add `-h` option to get a human readable format
-* The `-t` will sort by the modification date, you can also add `-r` to reverse the listing
-* If coloring is turned off on your machine you can turn it on with `--color=auto` option
-* Of course there is a bunch of options for `ls`. Use `ls --help` to explore them
-
-> NOTE: If you have a command like this `ls -l -h` you can shorten it to `ls -lh` and get the same result
 
 ### `find`
 
